@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CollaExportImportCSV</string>
+    <string name="action_import">Importar</string>
+</resources>
